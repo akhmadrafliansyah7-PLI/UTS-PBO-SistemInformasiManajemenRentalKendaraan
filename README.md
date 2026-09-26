@@ -42,7 +42,7 @@ hapus data, dan keluar dari program. Pengguna dapat memilih salah satu menu deng
 
 3. Tampilkan Harga Rental
 
-   Tampilkan Harga Rental digunakan untuk menampilkan daftar harga sewa kendaraan berdasarkan jenis kendaraannya. Pada menu ini, sistem     menampilkan harga rental mobil sebesar Rp300.000 per hari dan motor sebesar Rp100.000 per hari. Menu ini membantu pengguna mengetahui    tarif sewa sebelum melakukan rental kendaraan.
+   **Tampilkan Harga Rental** digunakan untuk menampilkan daftar harga sewa kendaraan berdasarkan jenis kendaraannya. Pada menu ini,        sistem menampilkan harga rental mobil sebesar Rp300.000 per hari dan motor sebesar Rp100.000 per hari. Menu ini membantu pengguna        mengetahui tarif sewa sebelum melakukan rental kendaraan.
 
    <img width="250" height="272" alt="image" src="https://github.com/user-attachments/assets/7d9d85e1-223c-4011-bc2e-466553ecdf84" />
 
@@ -52,7 +52,7 @@ hapus data, dan keluar dari program. Pengguna dapat memilih salah satu menu deng
 
    <img width="262" height="511" alt="image" src="https://github.com/user-attachments/assets/b265d113-6a92-4b02-a6ab-9d2b809eda37" />
 
-5. Hapus Data Pencucian
+5. Hapus Data Rental
    
    Pada menu **Hapus Data Rental**, pengguna memasukkan ID transaksi yang ingin dihapus. Sistem mencari transaksi berdasarkan ID            tersebut. Jika transaksi ditemukan, data akan dihapus dari `ArrayList`. Jika ID tidak ditemukan, sistem akan menampilkan pesan bahwa     data tidak ditemukan.
 
